@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "君はともだち",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-03-08T11:00:31.122407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君はともだち",
+      "artist": "鈴木康夫",
+      "has_synced": false,
+      "path": "select/01_君はともだち_鈴木康夫.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君はともだち",
+      "artist": "Randy Newman feat. カラフル",
+      "has_synced": false,
+      "path": "select/02_君はともだち_Randy_Newman_feat._カラフル.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君はともだち",
+      "artist": "スライ&ロビー",
+      "has_synced": false,
+      "path": "select/03_君はともだち_スライ&ロビー.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君はともだち",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/04_君はともだち_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君はともだち",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/05_君はともだち_Disney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君はともだち",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_君はともだち_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
